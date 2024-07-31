@@ -1,4 +1,4 @@
-# Artificial Intelligence for Communication and Marketing
+# Marketing Intelligence Suite: Customer Insights and Retention Strategies
 
 This repository contains three projects completed for the final exam of Artificial Intelligence for Communication and Marketing. The projects focus on customer segmentation, churn prediction, and market basket analysis to enhance marketing strategies and customer retention.
 
